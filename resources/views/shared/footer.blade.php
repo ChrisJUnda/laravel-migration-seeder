@@ -1,5 +1,5 @@
 <footer>
     <div class="px-4">
-        Footer
+        I fantastici treni 126
     </div>
 </footer>

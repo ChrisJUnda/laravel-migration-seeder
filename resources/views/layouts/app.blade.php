@@ -15,7 +15,7 @@
         Prova
     </h1> --}}
     <main>
-        <div class="containerpy-4">
+        <div class="container py-4">
             @yield('main')
         </div>
 
